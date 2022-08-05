@@ -1,0 +1,46 @@
+name: safra
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.5 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/safra/assets/images/cap.svg
+    - packages/safra/assets/images/wifi.png
+    - packages/safra/assets/images/cellularconnection.png
+    - packages/safra/assets/images/separatorlight16pxleftandright.svg
+    - packages/safra/assets/images/arrow.svg
+    - packages/safra/assets/images/background.svg
+    - packages/safra/assets/images/checkmarkdarkon.svg
+    - packages/safra/assets/images/group168.svg
+    - packages/safra/assets/images/rectangle8.png
+    - packages/safra/assets/images/rectangle1.svg
+    - packages/safra/assets/images/line1.svg
+    - packages/safra/assets/images/vector.svg
+    - packages/safra/assets/images/rectangle2.png
+    - packages/safra/assets/images/group.svg
+    - packages/safra/assets/images/group1.svg
+    - packages/safra/assets/images/rectangle3.png
+    - packages/safra/assets/images/rectangle7.png
+    - packages/safra/assets/images/vector1.svg
+    - packages/safra/assets/images/ellipse804.png
+    - packages/safra/assets/images/profilepicture.png
+    - packages/safra/assets/images/ellipse806.png
+    - packages/safra/assets/images/joinblue.png
+    - packages/safra/assets/images/createblue.png
+    - packages/safra/assets/images/createinner.png
+    - packages/safra/assets/images/rectangle10.png
+    - packages/safra/assets/images/rectangle11.png
+    - packages/safra/assets/images/rectangle10.svg
